@@ -1,0 +1,445 @@
+[
+  {
+    "class": "A",
+    "triplet": [
+      {
+        "character_name": "Elizabeth Bennet",
+        "file_name": "pride"
+      },
+      {
+        "character_name": "Elinor Dashwood",
+        "file_name": "sense"
+      },
+      {
+        "character_name": "Allen Quatermain",
+        "file_name": "1983_Haggard-Henry-Rider_Allan-Quatermain"
+      }
+    ]
+  },
+  {
+    "class": "A",
+    "triplet": [
+      {
+        "character_name": "Sherlock Holmes (adventures)",
+        "file_name": "1892_Doyle-Arthur-Conan_Les-Aventures-de-Sherlock-Holmes"
+      },
+      {
+        "character_name": "Sherlock Holmes (four)",
+        "file_name": "1890_Doyle-Arthur-Conan_La-Marque-des-quatre"
+      },
+      {
+        "character_name": "Bill Sikes",
+        "file_name": "1838_Dickens-Charles_Olivier-Twist"
+      }
+    ]
+  },
+  {
+    "class": "A",
+    "triplet": [
+      {
+        "character_name": "Emily St. Aubert",
+        "file_name": "1784_Radcliffe-Ann_Les-Mysteres-d-Udolphe"
+      },
+      {
+        "character_name": "Adeline",
+        "file_name": "1830_Radcliffe-Ann_La-Forêt-ou-l-Abbaye-de-Saint-Claire_tomes-1-2"
+      },
+      {
+        "character_name": "Uriah Heep",
+        "file_name": "1850_Dickens-Charles_David-Copperfield"
+      }
+    ]
+  },
+  {
+    "class": "A",
+    "triplet": [
+      {
+        "character_name": "Natty Bumppo (ontario)",
+        "file_name": "1840_Cooper-James-Fenimore_Le-Lac-Ontario"
+      },
+      {
+        "character_name": "Natty Bumppo (mohicans)",
+        "file_name": "1826_Cooper-James-Fenimore_Le-Dernier-des-Mohicans"
+      },
+      {
+        "character_name": "Uncas",
+        "file_name": "1826_Cooper-James-Fenimore_Le-Dernier-des-Mohicans"
+      }
+    ]
+  },
+  {
+    "class": "A",
+    "triplet": [
+      {
+        "character_name": "Sherlock Holmes (adventures)",
+        "file_name": "1892_Doyle-Arthur-Conan_Les-Aventures-de-Sherlock-Holmes"
+      },
+      {
+        "character_name": "Sherlock Holmes (four)",
+        "file_name": "1890_Doyle-Arthur-Conan_La-Marque-des-quatre"
+      },
+      {
+        "character_name": "Watson",
+        "file_name": "1892_Doyle-Arthur-Conan_Les-Aventures-de-Sherlock-Holmes"
+      }
+    ]
+  },
+  {
+    "class": "B",
+    "triplet": [
+      {
+        "character_name": "Emily St. Aubert",
+        "file_name": "1784_Radcliffe-Ann_Les-Mysteres-d-Udolphe"
+      },
+      {
+        "character_name": "Adeline",
+        "file_name": "1830_Radcliffe-Ann_La-Forêt-ou-l-Abbaye-de-Saint-Claire_tomes-1-2"
+      },
+      {
+        "character_name": "Elizabeth Bennet",
+        "file_name": "pride"
+      }
+    ]
+  },
+  {
+    "author": "Bamman",
+    "class": "B",
+    "triplet": [
+      {
+        "character_name": "George Wickham",
+        "file_name": "pride"
+      },
+      {
+        "character_name": "John Willoughby",
+        "file_name": "sense"
+      },
+      {
+        "character_name": "Mr Rochester",
+        "file_name": "1847_Bronte-Charlotte_Jane-Eyre"
+      }
+    ]
+  },
+  {
+    "class": "B",
+    "triplet": [
+      {
+        "character_name": "Lucy Snowe",
+        "file_name": "1853_Bronte-Charlotte_Villette"
+      },
+      {
+        "character_name": "Jane Eyre",
+        "file_name": "1847_Bronte-Charlotte_Jane-Eyre"
+      },
+      {
+        "character_name": "Pip",
+        "file_name": "1861_Dickens-Charles_Les-Grandes-Esperances"
+      }
+    ]
+  },
+  {
+    "class": "B",
+    "triplet": [
+      {
+        "character_name": "Diana Vernon",
+        "file_name": "1818_Scott-Walter_Rob-Roy"
+      },
+      {
+        "character_name": "Flora MacIvor",
+        "file_name": "1814_Scott-Walter_Waverley"
+      },
+      {
+        "character_name": "Emily St. Aubert",
+        "file_name": "1784_Radcliffe-Ann_Les-Mysteres-d-Udolphe"
+      }
+    ]
+  },
+  {
+    "class": "C",
+    "triplet": [
+      {
+        "character_name": "George Wickham",
+        "file_name": "pride"
+      },
+      {
+        "character_name": "John Willoughby",
+        "file_name": "sense"
+      },
+      {
+        "character_name": "Fitzwilliam Darcy",
+        "file_name": "pride"
+      }
+    ]
+  },
+  {
+    "class": "C",
+    "triplet": [
+      {
+        "character_name": "Elizabeth Bennet",
+        "file_name": "pride"
+      },
+      {
+        "character_name": "Elinor Dashwood",
+        "file_name": "sense"
+      },
+      {
+        "character_name": "Mrs. Bennet",
+        "file_name": "pride"
+      }
+    ]
+  },
+  {
+    "class": "C",
+    "triplet": [
+      {
+        "character_name": "John Barton",
+        "file_name": "1848_Gaskell-Elizabeth_Mary-Barton"
+      },
+      {
+        "character_name": "Nicholas Higgins",
+        "file_name": "1855_Gaskell-Elizabeth_Nord-et-sud"
+      },
+      {
+        "character_name": "Margaret Hale",
+        "file_name": "1855_Gaskell-Elizabeth_Nord-et-sud"
+      }
+    ]
+  },
+  {
+    "class": "C",
+    "triplet": [
+      {
+        "character_name": "Agnes Wickfield",
+        "file_name": "1850_Dickens-Charles_David-Copperfield"
+      },
+      {
+        "character_name": "Lizzie Hexam",
+        "file_name": "1865_Dickens-Charles_L-Ami-commun"
+      },
+      {
+        "character_name": "Uriah Heep",
+        "file_name": "1850_Dickens-Charles_David-Copperfield"
+      }
+    ]
+  },
+  {
+    "class": "C",
+    "triplet": [
+      {
+        "character_name": "Rowena",
+        "file_name": "1820_Scott-Walter_Ivanhoé"
+      },
+      {
+        "character_name": "Rose Bradwardine",
+        "file_name": "1814_Scott-Walter_Waverley"
+      },
+      {
+        "character_name": "Rebecca",
+        "file_name": "1820_Scott-Walter_Ivanhoé"
+      }
+    ]
+  },
+  {
+    "class": "C",
+    "triplet": [
+      {
+        "character_name": "Philippe Marquis de Montalt",
+        "file_name": "1830_Radcliffe-Ann_La-Forêt-ou-l-Abbaye-de-Saint-Claire_tomes-1-2"
+      },
+      {
+        "character_name": "Montoni",
+        "file_name": "1784_Radcliffe-Ann_Les-Mysteres-d-Udolphe"
+      },
+      {
+        "character_name": "Valancourt",
+        "file_name": "1784_Radcliffe-Ann_Les-Mysteres-d-Udolphe"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Pip",
+        "file_name": "1861_Dickens-Charles_Les-Grandes-Esperances"
+      },
+      {
+        "character_name": "Oliver Twist",
+        "file_name": "1838_Dickens-Charles_Olivier-Twist"
+      },
+      {
+        "character_name": "Miss Havisham",
+        "file_name": "1861_Dickens-Charles_Les-Grandes-Esperances"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Pip",
+        "file_name": "1861_Dickens-Charles_Les-Grandes-Esperances"
+      },
+      {
+        "character_name": "Oliver Twist",
+        "file_name": "1838_Dickens-Charles_Olivier-Twist"
+      },
+      {
+        "character_name": "Allen Quatermain",
+        "file_name": "1983_Haggard-Henry-Rider_Allan-Quatermain"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Frank Osbaldistone",
+        "file_name": "1818_Scott-Walter_Rob-Roy"
+      },
+      {
+        "character_name": "Edward Waverly",
+        "file_name": "1814_Scott-Walter_Waverley"
+      },
+      {
+        "character_name": "Rashleigh Osbaldistone",
+        "file_name": "1818_Scott-Walter_Rob-Roy"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Huckleberry Finn",
+        "file_name": "1884_Twain-Mark_Les-Aventures-de-Huck-Finn"
+      },
+      {
+        "character_name": "Huck Finn",
+        "file_name": "1876_Twain-Mark_Les-Aventures-de-Tom-Sawyer"
+      },
+      {
+        "character_name": "Tom Sawyer",
+        "file_name": "1876_Twain-Mark_Les-Aventures-de-Tom-Sawyer"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Montoni",
+        "file_name": "1784_Radcliffe-Ann_Les-Mysteres-d-Udolphe"
+      },
+      {
+        "character_name": "Heathcliff",
+        "file_name": "1847_Bronte-Emily_Les-Hauts-de-Hurle-Vent"
+      },
+      {
+        "character_name": "Mr. Bennet",
+        "file_name": "pride"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Arthur Donnithorne",
+        "file_name": "1859_Eliot-George_Adam-Bede"
+      },
+      {
+        "character_name": "Alec d’Urberville",
+        "file_name": "1891_Hardy-Thomas_Tess-D-Urberville"
+      },
+      {
+        "character_name": "John Thornton",
+        "file_name": "1855_Gaskell-Elizabeth_Nord-et-sud"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Jonathan Wild",
+        "file_name": "1839_Ainsworth-William-Harrison_Jack-Sheppard"
+      },
+      {
+        "character_name": "Bill Sikes",
+        "file_name": "1838_Dickens-Charles_Olivier-Twist"
+      },
+      {
+        "character_name": "Mr. Brownlow",
+        "file_name": "1838_Dickens-Charles_Olivier-Twist"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Simon Legree",
+        "file_name": "1852_Stowe-Harriet-Beecher_La-Case-de-l-oncle-Tom"
+      },
+      {
+        "character_name": "Bill Sikes",
+        "file_name": "1838_Dickens-Charles_Olivier-Twist"
+      },
+      {
+        "character_name": "Tom",
+        "file_name": "1852_Stowe-Harriet-Beecher_La-Case-de-l-oncle-Tom"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Isabel Archer",
+        "file_name": "1881_James-Henry_Un-portrait-de-femme"
+      },
+      {
+        "character_name": "Gwendolyn Harleth",
+        "file_name": "1876_Eliot-George_Daniel_Deronda"
+      },
+      {
+        "character_name": "Madame Merle",
+        "file_name": "1881_James-Henry_Un-portrait-de-femme"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Gilbert Osmond",
+        "file_name": "1881_James-Henry_Un-portrait-de-femme"
+      },
+      {
+        "character_name": "Henleigh Mallinger Grandcourt",
+        "file_name": "1876_Eliot-George_Daniel_Deronda"
+      },
+      {
+        "character_name": "Daniel Deronda",
+        "file_name": "1876_Eliot-George_Daniel_Deronda"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "David Copperfield",
+        "file_name": "1850_Dickens-Charles_David-Copperfield"
+      },
+      {
+        "character_name": "Jane Eyre",
+        "file_name": "1847_Bronte-Charlotte_Jane-Eyre"
+      },
+      {
+        "character_name": "Mr Rochester",
+        "file_name": "1847_Bronte-Charlotte_Jane-Eyre"
+      }
+    ]
+  }
+]
