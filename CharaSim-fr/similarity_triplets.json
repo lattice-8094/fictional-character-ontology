@@ -1,0 +1,436 @@
+[
+  {
+    "class": "A",
+    "triplet": [
+      {
+        "character_name": "Julien Sorel_Stendhal"
+      },
+      {
+        "character_name": "Lucien Leuwen_Stendhal"
+      },
+      {
+        "character_name": "Emma Bovary_Gustave Flaubert"
+      }
+    ]
+  },
+  {
+    "class": "A",
+    "triplet": [
+      {
+        "character_name": "Fabrice del Dongo_Stendhal"
+      },
+      {
+        "character_name": "Lucien Leuwen_Stendhal"
+      },
+      {
+        "character_name": "Maigret_Georges Simenon"
+      }
+    ]
+  },
+  {
+    "class": "A",
+    "triplet": [
+      {
+        "character_name": "Gervaise Macquart_Émile Zola"
+      },
+      {
+        "character_name": "Nana_Zola-Emile"
+      },
+      {
+        "character_name": "Claudine_Colette"
+      }
+    ]
+  },
+  {
+    "class": "A",
+    "triplet": [
+      {
+        "character_name": "Raphaël Valentin_Honoré de Balzac"
+      },
+      {
+        "character_name": "Lucien de Rubempré_Honoré de Balzac"
+      },
+      {
+        "character_name": "Anita_Delly"
+      }
+    ]
+  },
+  {
+    "class": "A",
+    "triplet": [
+      {
+        "character_name": "Germain_George Sand"
+      },
+      {
+        "character_name": "Landry_George Sand"
+      },
+      {
+        "character_name": "Jean Pardaillan_Michel Zevaco"
+      }
+    ]
+  },
+  {
+    "class": "A",
+    "triplet": [
+      {
+        "character_name": "Deslauriers_Gustave Flaubert"
+      },
+      {
+        "character_name": "Frédéric Moreau_Gustave Flaubert"
+      },
+      {
+        "character_name": "Anette_Marguerite Audoux"
+      }
+    ]
+  },
+  {
+    "class": "A",
+    "triplet": [
+      {
+        "character_name": "Georges Duroy_Guy de Maupassant"
+      },
+      {
+        "character_name": "Pierre_Guy de Maupassant"
+      },
+      {
+        "character_name": "Le petit prince_Antoine de Saint-Exupéry"
+      }
+    ]
+  },
+  {
+    "class": "A",
+    "triplet": [
+      {
+        "character_name": "Claude Gueux_Victor Hugo"
+      },
+      {
+        "character_name": "Jean Valjean_Victor Hugo"
+      },
+      {
+        "character_name": "Arsule_Jean Giono"
+      }
+    ]
+  },
+  {
+    "class": "A",
+    "triplet": [
+      {
+        "character_name": "Fantine_Victor Hugo"
+      },
+      {
+        "character_name": "Cosette_Victor Hugo"
+      },
+      {
+        "character_name": "Clarisse_Maurice Leblanc"
+      }
+    ]
+  },
+  {
+    "class": "A",
+    "triplet": [
+      {
+        "character_name": "Jacques Rainier_Romain Gary"
+      },
+      {
+        "character_name": "Marc Mathieu_Romain Gary"
+      },
+      {
+        "character_name": "Claudine_Colette"
+      }
+    ]
+  },
+  {
+    "class": "B",
+    "triplet": [
+      {
+        "character_name": "Julien Sorel_Stendhal"
+      },
+      {
+        "character_name": "Fabrice del Dongo_Stendhal"
+      },
+      {
+        "character_name": "Octave Mouret_Zola-Emile"
+      }
+    ]
+  },
+  {
+    "class": "B",
+    "triplet": [
+      {
+        "character_name": "Étienne Lantier_Zola-Emile"
+      },
+      {
+        "character_name": "Jacques Lantier_Zola-Emile"
+      },
+      {
+        "character_name": "Georges Duroy_Guy de Maupassant"
+      }
+    ]
+  },
+  {
+    "class": "B",
+    "triplet": [
+      {
+        "character_name": "Julie de Carneilhan_Colette"
+      },
+      {
+        "character_name": "Léa de Lonval_Colette"
+      },
+      {
+        "character_name": "Jeanne_Guy de Maupassant"
+      }
+    ]
+  },
+  {
+    "class": "B",
+    "triplet": [
+      {
+        "character_name": "Consuelo_George Sand"
+      },
+      {
+        "character_name": "Edmée_George Sand"
+      },
+      {
+        "character_name": "Gervaise Macquart_Émile Zola"
+      }
+    ]
+  },
+  {
+    "class": "B",
+    "triplet": [
+      {
+        "character_name": "Claude Gueux_Victor Hugo"
+      },
+      {
+        "character_name": "Jean Valjean_Victor Hugo"
+      },
+      {
+        "character_name": "Jacques Arnoux_Gustave Flaubert"
+      }
+    ]
+  },
+  {
+    "class": "C",
+    "triplet": [
+      {
+        "character_name": "Marie Arnoux_Gustave Flaubert"
+      },
+      {
+        "character_name": "Mme Dambreuse_Gustave Flaubert"
+      },
+      {
+        "character_name": "Rosanette_Gustave Flaubert"
+      }
+    ]
+  },
+  {
+    "class": "C",
+    "triplet": [
+      {
+        "character_name": "Swann_Marcel Proust"
+      },
+      {
+        "character_name": "Marcel_Marcel Proust"
+      },
+      {
+        "character_name": "M. de Charlus_Marcel Proust"
+      }
+    ]
+  },
+  {
+    "class": "C",
+    "triplet": [
+      {
+        "character_name": "Octave Mouret_Zola-Emile"
+      },
+      {
+        "character_name": "Étienne Lantier_Zola-Emile"
+      },
+      {
+        "character_name": "Nana_Zola-Emile"
+      }
+    ]
+  },
+  {
+    "class": "C",
+    "triplet": [
+      {
+        "character_name": "Pierre_Guy de Maupassant"
+      },
+      {
+        "character_name": "Jean_Guy de Maupassant"
+      },
+      {
+        "character_name": "Gérome Roland_Guy de Maupassant"
+      }
+    ]
+  },
+  {
+    "class": "C",
+    "triplet": [
+      {
+        "character_name": "Consuelo_George Sand"
+      },
+      {
+        "character_name": "la comtesse de Rudolstadt_George Sand"
+      },
+      {
+        "character_name": "Edmée_George Sand"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Manon des Sources_Marcel Pagnol"
+      },
+      {
+        "character_name": "Jean_Marcel Pagnol"
+      },
+      {
+        "character_name": "Quasimodo_Victor Hugo"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Meursault_Albert Camus"
+      },
+      {
+        "character_name": "Marie_Albert Camus"
+      },
+      {
+        "character_name": "Bernard_André Gide"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Bernard_André Gide"
+      },
+      {
+        "character_name": "Olivier_André Gide"
+      },
+      {
+        "character_name": "Swann_Marcel Proust"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Julien Sorel_Stendhal"
+      },
+      {
+        "character_name": "Lucien de Rubempré_Honoré de Balzac"
+      },
+      {
+        "character_name": "Gilliatt_Victor Hugo"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Javert_Victor Hugo"
+      },
+      {
+        "character_name": "Maigret_Georges Simenon"
+      },
+      {
+        "character_name": "Joseph Rouletabille_Gaston Leroux"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Esmeralda_Victor Hugo"
+      },
+      {
+        "character_name": "Rosanette_Gustave Flaubert"
+      },
+      {
+        "character_name": "Nana_Zola-Emile"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Frédéric Moreau_Gustave Flaubert"
+      },
+      {
+        "character_name": "Julien Sorel_Stendhal"
+      },
+      {
+        "character_name": "Jean Valjean_Victor Hugo"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Eugénie Grandet_Honoré de Balzac"
+      },
+      {
+        "character_name": "Emma Bovary_Gustave Flaubert"
+      },
+      {
+        "character_name": "Indiana_George Sand"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Joseph Rouletabille_Gaston Leroux"
+      },
+      {
+        "character_name": "Arsène Lupin_Maurice Leblanc"
+      },
+      {
+        "character_name": "Rocambole_Pierre Ponson du Terrail"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Indiana_George Sand"
+      },
+      {
+        "character_name": "Léa de Lonval_Colette"
+      },
+      {
+        "character_name": "Gervaise Macquart_Émile Zola"
+      }
+    ]
+  },
+  {
+    "class": "D",
+    "triplet": [
+      {
+        "character_name": "Meursault_Albert Camus"
+      },
+      {
+        "character_name": "Mathias_Alain Robbe-Grillet"
+      },
+      {
+        "character_name": "Nestor Burma_Léo Malet"
+      }
+    ]
+  }
+]
